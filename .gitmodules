@@ -4,4 +4,3 @@
 [submodule "backend"]
 	path = backend
 	url = git@github.com:SamuelSlavka/game-backend.git
-
