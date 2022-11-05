@@ -1,3 +1,4 @@
 .git
 .env
 app_versions
+.vscode
